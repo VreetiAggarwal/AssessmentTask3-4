@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+This project is Task 3 and Task 4 where we need to create a login page with validation and after that it should redirect to the dashboard.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Technologies Used
+- ReactJS
+- ExpressJS
+- MongoDB
+- NodeJS
+- Postman (for testing)
 
-## Available Scripts
+# TASK 3: 
+<img width="476" alt="image" src="https://github.com/VreetiAggarwal/AssessmentTask3-4/assets/110801536/23304999-37fe-4470-864b-207c9b42a953">
 
-In the project directory, you can run:
+<img width="496" alt="image" src="https://github.com/VreetiAggarwal/AssessmentTask3-4/assets/110801536/f1573f56-1e39-4393-beac-19184d34f31a">
+-for validation while creating the user
 
-### `npm start`
+- Time taken: 3 hours 
+- Functionality: Creating, Validating a user through the form by linking frontend with the backend (using Axios) and using MongoDB as the database to store the data through the form. It validates email and password as per the given instructions.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# TASK 4:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Time Taken: 5 hours
+- Functionality: Sending the email using Nodemailer for forget password and creating graphs using ChartJS for the dashboard. And the database can be accessed by only the privded password. Other passwords would not redirect to dashboard.
+- Improvement: If the data for the graphs were passed dynamically, the other values could have been calculated by using map. 
 
-### `npm test`
+# Demo Video
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+https://github.com/VreetiAggarwal/AssessmentTask3-4/assets/110801536/6db4435c-7179-43a0-a701-0c846eb5f978
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  
