@@ -8,11 +8,10 @@ This project is Task 3 and Task 4 where we need to create a login page with vali
 - Postman (for testing)
 
 # TASK 3: 
-<img width="476" alt="image" src="https://github.com/VreetiAggarwal/AssessmentTask3-4/assets/110801536/23304999-37fe-4470-864b-207c9b42a953">
+- <img width="476" alt="image" src="https://github.com/VreetiAggarwal/AssessmentTask3-4/assets/110801536/23304999-37fe-4470-864b-207c9b42a953">
+- <img width="496" alt="image" src="https://github.com/VreetiAggarwal/AssessmentTask3-4/assets/110801536/f1573f56-1e39-4393-beac-19184d34f31a">
 
-<img width="496" alt="image" src="https://github.com/VreetiAggarwal/AssessmentTask3-4/assets/110801536/f1573f56-1e39-4393-beac-19184d34f31a">
 -for validation while creating the user
-
 - Time taken: 3 hours 
 - Functionality: Creating, Validating a user through the form by linking frontend with the backend (using Axios) and using MongoDB as the database to store the data through the form. It validates email and password as per the given instructions.
 
